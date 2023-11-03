@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jed Movies Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A movies directory search using React Hooks
 
 ## Available Scripts
 

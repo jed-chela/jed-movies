@@ -1,6 +1,6 @@
 # Jed Movies Directory
 
-A movies directory search using React Hooks
+A movies directory search using React Hooks. Preview it here: https://jed-movies.vercel.app/
 
 ## Available Scripts
 
